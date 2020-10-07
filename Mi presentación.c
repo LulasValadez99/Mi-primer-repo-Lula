@@ -1,4 +1,4 @@
-#include<studio.h>//stdio->Standard Input/Output
+#include<studio.h> //stdio -> Standard Input/Output
 
 int main(){
 	printf("Hola Mundo me llamo: ");
